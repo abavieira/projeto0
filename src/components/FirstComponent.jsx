@@ -2,8 +2,8 @@ import React from 'react'
 
 
 const FirstComponent = () => {
-    const nome = "Ana";
-    const sobrenome = "Alves";
+    const nome = "Ana Beatriz";
+    const sobrenome = "Vieira Alves";
     const matricula = 2324290082;
     const nomeProfessor = "Felipe Batista"
     const nomeDisciplina = "Construção de Frontend"
